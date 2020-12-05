@@ -1,13 +1,10 @@
 .jumbotron {
-    background-image: url("/assets/img/background.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+    background-color: #f0ad4e !important;
     margin-top: 10px;
 }
 
 .jumbotron > h1 {
-    font-family: 'Creepster', cursive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #newburger {
